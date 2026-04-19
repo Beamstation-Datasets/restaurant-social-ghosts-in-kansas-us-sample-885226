@@ -9,9 +9,9 @@
 | Dataset ID | `885226` |
 | Location | Kansas |
 | Category | Restaurants |
-| Full dataset size | 60 records |
-| Free sample size | 7 records (11.67%) |
-| Last export | 2026-04-08T06:45:46.153316+00:00 |
+| Full dataset size | 76 records |
+| Free sample size | 7 records (9.21%) |
+| Last export | 2026-04-15T10:17:59.524518+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-kansas-us-sample-885226/releases/download/sample-latest/beamstation_885226_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
