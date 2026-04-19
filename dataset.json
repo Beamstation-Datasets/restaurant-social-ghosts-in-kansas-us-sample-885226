@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in Kansas, US",
-  "export_job_id": "0d77aca4-d9db-408b-8002-9ec51d3a6250",
+  "export_job_id": "8f2c6144-b378-4972-9220-fc0b8a73d306",
   "github_org": "Beamstation-Datasets",
   "id_short": 885226,
   "location_name": "Kansas",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-kansas-us-sample-885226",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/885226/beamstation_885226_restaurants-us-ks_SAMPLE_DIST.csv",
-  "sample_pct": 11.67,
+  "sample_pct": 9.21,
   "sample_records": 7,
   "sample_sha256": "248cc32e219f0f09faaca1ddc8319e04c28e3c57873278e660ec02e42dd362fa",
   "sample_size_bytes": 40888,
-  "total_records": 60,
-  "updated_at": "2026-04-08T06:45:46.153316+00:00"
+  "total_records": 76,
+  "updated_at": "2026-04-15T10:17:59.524518+00:00"
 }
