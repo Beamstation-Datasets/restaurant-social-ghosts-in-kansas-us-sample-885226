@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8f2c6144-b378-4972-9220-fc0b8a73d306",
+  "export_job_id": "9a37eb1c-3f6b-4f57-8d6d-5c0e9eb97f55",
   "id_short": 885226,
-  "published_at": "2026-04-19T07:53:19Z",
+  "published_at": "2026-04-23T07:14:31Z",
   "repo_name": "restaurant-social-ghosts-in-kansas-us-sample-885226",
   "sample_asset_name": "beamstation_885226_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/885226/beamstation_885226_restaurants-us-ks_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "248cc32e219f0f09faaca1ddc8319e04c28e3c57873278e660ec02e42dd362fa",
-  "sample_size_bytes": 40888,
-  "total_records": 76
+  "sample_records": 1,
+  "sample_sha256": "4ccd634ab39ab9d9ef3ed9bd5c25859acd39bcf04c860c4b089d5aeb1ced5488",
+  "sample_size_bytes": 20070,
+  "total_records": 7
 }
