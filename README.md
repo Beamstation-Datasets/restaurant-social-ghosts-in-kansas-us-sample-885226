@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Kansas, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `885226` |
 | Location | Kansas |
 | Category | Restaurants |
-| Full dataset size | 7 records |
-| Free sample size | 1 records (14.29%) |
-| Last export | 2026-04-22T17:46:39.475562+00:00 |
+| Full dataset size | 72 records |
+| Free sample size | 7 records (9.72%) |
+| Last export | 2026-04-29T17:33:55.055796+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-kansas-us-sample-885226/releases/download/sample-latest/beamstation_885226_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
